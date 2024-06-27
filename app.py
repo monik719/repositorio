@@ -33,6 +33,6 @@ if grafico_button:
     graf= px.scatter(car_data, x="odometer")
 
     #mostrar el grafico
-    st.plotly_chart(graf)
+    st.plotly_chart(graf, use_container_width=True)
 
         
