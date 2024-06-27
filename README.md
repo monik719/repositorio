@@ -1,8 +1,8 @@
-# Venta de vehiculos
-Aqui podras encontrar toda la informacion sobre la venta de vehiculos, 
+# Anuncios de la venta de vehiculos
+Aqui podras encontrar toda la informacion sobre los datos de anuncios de la venta de vehiculos
 
-## Información que puedes encontrar sobre los vehiculos:
-Esta son algunas de las caracteristicas que vas a encontrar para cada vehiculo, lo que te va a permitir encontrar una mejor especificacion con un mejor acceso.
+## Información analizada de los datos
+Esta son algunas de las variables que se analizaron:
 
 - Marca
 - cilindraje
