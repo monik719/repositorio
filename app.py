@@ -25,7 +25,7 @@ if build_histogram: # si la casilla de verificación está seleccionada
     st.write('Construir un histograma para la columna odómetro')
 
 # Crear un grafico de dispersion
-grafico_button= st.butthon('Construir grafico de dispersion')
+grafico_button= st.button('Construir grafico de dispersion')
 if grafico_button:
     st.write('Creacion de un grafico de dispersion para el conjunto de datos de ventas de coches')
     
