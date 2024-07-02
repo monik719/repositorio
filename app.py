@@ -30,7 +30,7 @@ if grafico_button:
     st.write('Creacion de un grafico de dispersion para el conjunto de datos de ventas de coches')
     
     #crea un grafico
-    graf= px.scatter(car_data, x="odometer")
+    graf= px.scatter(car_data, x="odometer", y="price")
 
     #mostrar el grafico
     st.plotly_chart(graf, use_container_width=True)
